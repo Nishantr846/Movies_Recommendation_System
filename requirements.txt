@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+joblib      # or pickle, if you're using it to load .sav files
+numpy
+pandas
+pickle
